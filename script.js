@@ -20,11 +20,11 @@ window.addEventListener('load', () => {
         body.classList.add('dark-theme');
     }
     
-    // Анимация ползунков навыков
+    // Анимация ползулков навыков
     animateSkillBars();
 });
 
-// Анимация ползунков навыков
+// Анимация ползулков навыков
 function animateSkillBars() {
     const skillBars = document.querySelectorAll('.skill-fill');
     
